@@ -1,0 +1,15 @@
+D:\Документы\Обучение\Тестировщик\Итог 1 четверть\ch\Primer\bin\Debug\net6.0\Primer.exe
+D:\Документы\Обучение\Тестировщик\Итог 1 четверть\ch\Primer\bin\Debug\net6.0\Primer.deps.json
+D:\Документы\Обучение\Тестировщик\Итог 1 четверть\ch\Primer\bin\Debug\net6.0\Primer.runtimeconfig.json
+D:\Документы\Обучение\Тестировщик\Итог 1 четверть\ch\Primer\bin\Debug\net6.0\Primer.dll
+D:\Документы\Обучение\Тестировщик\Итог 1 четверть\ch\Primer\bin\Debug\net6.0\Primer.pdb
+D:\Документы\Обучение\Тестировщик\Итог 1 четверть\ch\Primer\obj\Debug\net6.0\Primer.csproj.AssemblyReference.cache
+D:\Документы\Обучение\Тестировщик\Итог 1 четверть\ch\Primer\obj\Debug\net6.0\Primer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Обучение\Тестировщик\Итог 1 четверть\ch\Primer\obj\Debug\net6.0\Primer.AssemblyInfoInputs.cache
+D:\Документы\Обучение\Тестировщик\Итог 1 четверть\ch\Primer\obj\Debug\net6.0\Primer.AssemblyInfo.cs
+D:\Документы\Обучение\Тестировщик\Итог 1 четверть\ch\Primer\obj\Debug\net6.0\Primer.csproj.CoreCompileInputs.cache
+D:\Документы\Обучение\Тестировщик\Итог 1 четверть\ch\Primer\obj\Debug\net6.0\Primer.dll
+D:\Документы\Обучение\Тестировщик\Итог 1 четверть\ch\Primer\obj\Debug\net6.0\refint\Primer.dll
+D:\Документы\Обучение\Тестировщик\Итог 1 четверть\ch\Primer\obj\Debug\net6.0\Primer.pdb
+D:\Документы\Обучение\Тестировщик\Итог 1 четверть\ch\Primer\obj\Debug\net6.0\Primer.genruntimeconfig.cache
+D:\Документы\Обучение\Тестировщик\Итог 1 четверть\ch\Primer\obj\Debug\net6.0\ref\Primer.dll
